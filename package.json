@@ -1,0 +1,23 @@
+{
+  "name": "med-app-api",
+  "version": "1.0.0",
+  "description": "An ordinary testing API for an Android device meditation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serjoK95/med-app-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serjoK95/med-app-api/issues"
+  },
+  "homepage": "https://github.com/serjoK95/med-app-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "user": {
+    "id": 1,
+    "name": "ITRMC",
+    "username": "itrmc"
+  },
+  "phasesSection": {
+    "phases": [
+      {
+        "id": 1,
+        "name": "Wake Up - Get your day going with a dose of breathing techniques, stretching, etc.",
+        "link": "",
+        "imageUrl": "https://www.theladders.com/wp-content/uploads/wake_up_190412.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 2,
+        "name": "Morning - Get your day going after waking up with...",
+        "link": "",
+        "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 3,
+        "name": "Lunch Time - ...",
+        "link": "",
+        "imageUrl": "https://img.apmcdn.org/47311137c5ffac482bb7a0067f34d41ff7370ea3/uncropped/0d782c-splendid-table-work-lunch-c-milkos-istock-gettyimagesplus-912446890-lede.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 4,
+        "name": "Work",
+        "link": "",
+        "imageUrl": "https://images.indianexpress.com/2020/07/survey-work-from-home_759_pixabay.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 465
+        },
+        "numberOfViews": 5432
+      },
+      {
+        "id": 5,
+        "name": "Night Time - ...",
+        "link": "",
+        "imageUrl": "https://wallpaperboat.com/wp-content/uploads/2020/11/16/61024/night-time-15.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 6,
+        "name": "Before Bed - ...",
+        "link": "",
+        "imageUrl": "https://healthtalk.unchealthcare.org/wp-content/uploads/2018/03/AS_115704446nonmed_sleep_help-hero_preview-860x452.jpeg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 7,
+        "name": "Sleep",
+        "link": "",
+        "imageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
+          "usersSubscribed": 1432
+        },
+        "numberOfViews": 12435
+      }
+    ]
+  },
+  "wakeUpOption": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Slow Tempo Nose Inhaling",
+        "imgUrl": "https://miro.medium.com/max/1024/1*wjxycequ4sTCYnvGb-IKCA.jpeg",
+        "description": "This techniques consists of slow inhaling intervals..."
+      },
+      {
+        "id": "1",
+        "name": "Breath Holding",
+        "imgUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/04/Exhausted_sports_woman-732x549-thumbnail-732x549.jpg?w=756&h=567",
+        "description": "Breath holding is about building inner resilience. Start with shorter time periods of 20 seconds, 40 seconds, 60 seconds, etc."
+      },
+      {
+        "id": "2",
+        "name": "Pressured Breath Releasing",
+        "imgUrl": "https://www.wikihow.com/images/thumb/e/e4/Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg/v4-460px-Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg.webp",
+        "description": "The pressured breath release technique focuses on releasing the build up from holding your breath..."
+      }
+    ]
+  },
+  "morningOption": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Hydration",
+        "imgUrl": "https://www.elcaminohealth.org/sites/default/files/2020-07/hydration-1200x630.jpg",
+        "description": "Get your morning dose of vital hydration..."
+      },
+      {
+        "id": "1",
+        "name": "Breakfast",
+        "imgUrl": "https://www.andianne.com/wp-content/uploads/2021/03/Healthy-toast-28.jpg",
+        "description": "Start the day of with a healthy breakfast..."
+      },
+      {
+        "id": "2",
+        "name": "Wake Up Grooming",
+        "imgUrl": "https://www.youbeauty.com/wp-content/uploads/2020/06/PID-153816_Wake-Up-Your-Skin-Without-Fancy-Products-Wash-Face-Cold-Ice-Cubes-Caffeine_H-1.jpg",
+        "description": "Wake-Up grooming routine..."
+      },
+      {
+        "id": "3",
+        "name": "Stretching/ Morning Workout",
+        "imgUrl": "https://imageio.forbes.com/specials-images/imageserve/1160224475/A-portrait-of-fit-mixed-race-man-with-dreadlocks-doing-exercise-at-home--stretching-/960x0.jpg?format=jpg&width=960",
+        "description": "Stretching/ workout session in the morning..."
+      }
+    ]
+  },
+  "lunchOption": {
+    "options" : [
+      {
+        "id": "0",
+        "name": "TV Break",
+        "imgUrl": "https://media.npr.org/assets/img/2015/12/02/watching-tv_custom-0ec934f099b7a6dd0f9ae13f7471e5bbc53a6d08.jpg",
+        "description": "Draw your thoughts away from work with TV..."
+      },
+      {
+        "id": "1",
+        "name": "Music Break",
+        "imgUrl": "https://www.humnutrition.com/blog/wp-content/uploads/2021/03/Benefits-of-listening-to-music-less-stress-The-Wellnest-by-HUM-Nutrition.jpg",
+        "description": "Draw your thoughts away from work with music..."
+      },
+      {
+        "id": "2",
+        "name": "Short Interval High Intensity Workout",
+        "imgUrl": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_01/2701716/190102-exercise-sweating-stock-cs-117p.jpg",
+        "description": "Initiate in a short but intense workout session..."
+      }
+    ]
+  },
+  "workOption": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Concentration Workout",
+        "imgUrl": "https://media.istockphoto.com/photos/man-with-stressed-face-expression-brain-melting-into-lines-picture-id505508726?k=20&m=505508726&s=612x612&w=0&h=MzR93eP0DpmHfic6h1QCllKJvK7YgYZRUGmpJysy438=",
+        "description": "Improve your concentration by completing tasks that have to do with focus, differentiation, etc."
+      },
+      {
+        "id": "1",
+        "name": "Stress Relieve",
+        "imgUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/09/headphones-music-listening-black-male-eyes-closed-1296x728-header.jpg?w=1155&h=1528",
+        "description": "Quick stress relieve by using certain sound vibrations, stretching techniques, etc."
+      },
+      {
+        "id": "2",
+        "name": "Low Intensity Physical Workout",
+        "imgUrl": "https://www.mensjournal.com/wp-content/uploads/mf/push_ups_main_0.jpg?quality=86&strip=all",
+        "description": "Short physical workouts that might involve squatting, push ups, stretching, etc."
+      }
+    ]
+  },
+  "nightTimeOption": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Night Time Workout",
+        "imgUrl": "https://www.superfeet.com/media/amasty/blog/7_Nighttime_Workout_Tips_927x500.png",
+        "description": "Jogging/ workout session at night time..."
+      },
+      {
+        "id": "1",
+        "name": "Books/ Reading",
+        "imgUrl": "https://online.merrimack.edu/wp-content/uploads/2019/04/MCMED_5-Reasons-REading-is-So-Important-to-Student-Success.jpg",
+        "description": "Take some dedicated time to read your favorite books..."
+      },
+      {
+        "id": "2",
+        "name": "Journal Writing",
+        "imgUrl": "https://cdn.lifehack.org/wp-content/uploads/2019/12/writing-journal1-1024x768.jpeg",
+        "description": "Take some dedicated time to write down your day as part of journal keeping..."
+      }
+    ]
+  },
+  "beforeBedOption": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Rhythmic Breathing Session",
+        "imgUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/breathing-1562689585.png",
+        "description": "Short rhythmic breathing session for calmness & relaxation..."
+      },
+      {
+        "id": "1",
+        "name": "Audio Books",
+        "imgUrl": "https://cairowestmag.com/wp-content/uploads/2022/02/audiobooks.jpg",
+        "description": "Listen to audio books..."
+      },
+      {
+        "id": "2",
+        "name": "Meditation & Prayer",
+        "imgUrl": "https://i.swncdn.com/media/800w/via/18050-gettyimages-1194042218.jpg",
+        "description": "Initiate in a meditation or prayer session by your likings..."
+      }
+    ]
+  },
+  "sleepOption": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Relaxing Landscape Music",
+        "imgUrl": "https://img.tastelife.tv/assets/uploads/2021/12/Slovenia_relaxation_film_10x7-684x480.jpg",
+        "description": "Listen to relaxing landscape music before going to bed."
+      }, 
+      {
+        "id": "1",
+        "name": "Meditation Music",
+        "imgUrl": "https://mindwings.com/fileadmin/images/header/meditation-music-intro.jpg",
+        "description": "Meditation music intends to put you in a relaxed state of mind by..."
+      },
+      {
+        "id": "2",
+        "name": "Delta Wave Vibrations",
+        "imgUrl": "https://nexus.jefferson.edu/wp-content/uploads/2019/11/brain-waves.jpg",
+        "description": "Delta waves are high amplitude neural oscillations with a frequency between 0.5 and 4 hertz."
+      }
+    ]
+  },
+  "thematicsSection": {
+    "thematics": [
+      {
+        "id": 1,
+        "name": "Stress Reliefe",
+        "link": "",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/59e6fd1e9f07f52e7c34c6c1/1516708046627-556PXJFXA1BCT4QZKEAW/buddha-160424_1280.png?format=1500w"
+      },
+      {
+        "id": 2,
+        "name": "Success",
+        "link": "",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/002/637/489/non_2x/man-working-office-desk-side-view-on-white-background-free-vector.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Creating or Balancing Emotions",
+        "link": "",
+        "imageUrl": "https://img.freepik.com/free-vector/flat-creativity-concept-illustration_52683-64279.jpg?w=360"
+      },
+      {
+        "id": 4,
+        "name": "Family",
+        "link": "",
+        "imageUrl": "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/6945/family-clipart-xl.png"
+      },
+      {
+        "id": 5,
+        "name": "Nature",
+        "link": "",
+        "imageUrl": "https://www.nicepng.com/png/full/493-4930735_green-leaves-nature-circle-background-plant-jungle.png"
+      },
+      {
+        "id": 6,
+        "name": "Happiness",
+        "link": "",
+        "imageUrl": "https://media.istockphoto.com/vectors/happy-people-jumping-celebrating-victory-flat-cartoon-characters-vector-id1257101256?k=20&m=1257101256&s=612x612&w=0&h=QFiIL5ovXuVnYj3NjNXeftDcXOTA505qZfHHaz6h7V8="
+      },
+      {
+        "id": 7,
+        "name": "Music",
+        "link": "",
+        "imageUrl": "https://img.freepik.com/free-vector/banner-music-notes-colourful-white-background_1308-95190.jpg?w=2000"
+      }
+    ]
+  },
+  "stressReliefThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Relax Music",
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
+      },
+      {
+        "id": "1",
+        "name": "Music for Reading",
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": "https://codeskulptor-demos.commondatastorage.googleapis.com/descent/background%20music.mp3"
+      },
+      {
+        "id": "2",
+        "name": "Ease Anxiety",
+        "imgUrl": "https://images.squarespace-cdn.com/content/v1/55832ca1e4b047816d3d9c8b/1533239763310-RZW8MXMH24SL4YYKJLN5/Coping-With-Anxiety-and-Depression-722x406_blue.jpg",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": ""
+      },
+      {
+        "id": "3",
+        "name": "Vibrant Wake-Up Music",
+        "imgUrl": "https://see.news/wp-content/uploads/2021/04/wakeup-favorite-music.jpg",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": ""
+      },
+      {
+        "id": "4",
+        "name": "Ambient & Atmosphering",
+        "imgUrl": "https://i.ytimg.com/vi/LJyiTDAWzDA/maxresdefault.jpg",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": ""
+      },
+      {
+        "id": "5",
+        "name": "Classic & Strings",
+        "imgUrl": "https://miro.medium.com/max/1024/1*mixpt3aTomNCPC2-cBlmIw.jpeg",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": ""
+      },
+      {
+        "id": "6",
+        "name": "Soundscapes",
+        "imgUrl": "https://i.ytimg.com/vi/kWGFLz7L_Ik/maxresdefault.jpg",
+        "description": "Pick from a playlist of relaxing music options.",
+        "musicUrl": ""
+      }
+    ]
+  },
+  "successThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Visualization Meditation (Color Breathing)",
+        "imgUrl": "https://www.happiness.com/community/uploads/monthly_2021_01/visualization-meditation.jpg.5a0ac50ffb3ee864c13eec00d9be8703.jpg",
+        "description": "Visualization meditation focuses on the use of guided imagery to cultivate certain psychological qualities.",
+        "musicUrl": ""
+      },
+      {
+        "id": "1",
+        "name": "Guided Imagery",
+        "imgUrl": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2022/02/GuidedImagery-1255305082-770x533-1.jpg",
+        "description": "Guided imagery (also known as guided affective imagery, or katathym-imaginative psychotherapy (KIP)) is a mind-body intervention by which a person can simulate or recreate the sensory perception.",
+        "musicUrl": ""
+      },
+      {
+        "id": "2",
+        "name": "Goals Visualization",
+        "imgUrl": "https://content.thriveglobal.com/wp-content/uploads/2021/01/Why-Everyones-Wrong-About-Visualization-TG.jpg",
+        "description": "Goal visualization requires you to acknowledge that good things can and will happen to you.",
+        "musicUrl": ""
+      },
+      {
+        "id": "3",
+        "name": "Procrastination Exercise",
+        "imgUrl": "https://jamesclear.com/wp-content/uploads/2015/06/procrastination-action-line-chart.jpg",
+        "description": "Setting a fixed period of time for exercise will motivate you to overcome procrastination.",
+        "musicUrl": ""
+      },
+      {
+        "id": "4",
+        "name": "Pattern Recognition",
+        "imgUrl": "https://www.verdict.co.uk/wp-content/uploads/2019/10/ai-research-centre-machine-learning-mystery.jpg",
+        "description": "Similar to the data analysis method that uses machine learning algorithms to automatically recognize patterns and regularities in data, Pattern Recognition aims to help you in differentiating patterns.",
+        "musicUrl": ""
+      }
+    ]
+  },
+  "balancingThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Sunrise Meditation",
+        "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-d0e9e0b2431f825a0ded5e7ab0e73f2a-lq",
+        "description": "Meditate during sunrise.",
+        "musicUrl": ""
+      },
+      {
+        "id": "1",
+        "name": "Enso Meditation",
+        "imgUrl": "https://www.lionsroar.com/wp-content/uploads/2018/06/enso-featured-800x457.png?p=78606",
+        "description": "ensō is created as a meditation exercise, which is called ‘meditation in action’. Like daily meditation, one could also create an ensō as a daily practice.",
+        "musicUrl": ""
+      },
+      {
+        "id": "2",
+        "name": "Mindfulness Meditation",
+        "imgUrl": "https://i0.wp.com/www.additudemag.com/wp-content/uploads/2022/04/Calming-Triggered-Emotions-Saunders_1920x1080.jpg",
+        "description": "Mindfulness meditation is the practice of actually being present in the moment, which in turn trains us to become more mindful throughout the day, particularly during difficult situations.",
+        "musicUrl": ""
+      }
+    ]
+  },
+  "familyThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Big Breathing (Baloon Method)",
+        "imgUrl": "https://www.kidlo.com/wp-content/uploads/2020/10/61.jpg",
+        "description": "Balloon Breaths is a mindful breathing exercise for children, that allows kids to practice focus and deep breathing",
+        "musicUrl": ""
+      },
+      {
+        "id": "1",
+        "name": "Mindful Listening",
+        "imgUrl": "https://momentousinstitute.org/assets/site/blog/Mindful-Listening.jpg",
+        "description": "In mindful listening, for instance, children are guided through a brief meditation session during which they pay attention to different sounds.",
+        "musicUrl": ""
+      },
+      {
+        "id": "2",
+        "name": "Candle Gazing",
+        "imgUrl": "https://static1.momsimage.com/wordpress/wp-content/uploads/2019/05/Candle-gazing-child.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "description": "Practicing gaze for children can improve attention and memorization skills.",
+        "musicUrl": ""
+      }
+    ]
+  },
+  "natureThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Walking/ Earthing Meditation",
+        "imgUrl": "https://images.squarespace-cdn.com/content/v1/5703cbb32eeb810fd931ac4d/1486154865984-0NM7QU0CE20Y293MKIVL/walking.jpg",
+        "description": "Walking meditation is a simple practice that helps us to become grounded, calm and aware. When we walk in meditation, we can notice the sensations in our bodies, the feeling of the ground under our feet, and we can feel free and happy in each and every step. ",
+        "musicUrl": ""
+      },
+      {
+        "id": "1",
+        "name": "Meditative Gardening",
+        "imgUrl": "https://www.outdoorhappens.com/wp-content/uploads/2019/12/group-of-diverse-kids-learning-environment-at-farm.jpg",
+        "description": "Common definitions include a focus on mindfulness, curiosity, and intuition. Gardening as meditation can be both intentional or unintentional.",
+        "musicUrl": ""
+      },
+      {
+        "id": "2",
+        "name": "Outdoor Reading",
+        "imgUrl": "https://i.dailymail.co.uk/1s/2021/02/02/12/38781880-9214471-image-a-19_1612270738079.jpg",
+        "description": "Enjoy your favorite book in an outdoor setting.",
+        "musicUrl": ""
+      },
+      {
+        "id": "3",
+        "name": "Rock Stacking",
+        "imgUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/CF00/production/_102929925_rockstack1.jpg",
+        "description": "Rock balancing is a form of recreation or expression in which rocks are balanced on top of one another, often in a precarious manner.",
+        "musicUrl": ""
+      },
+      {
+        "id": "4",
+        "name": "Mindful Picnic",
+        "imgUrl": "https://dietitianfit.co.uk/wp-content/uploads/2022/07/shutterstock_1385403743.jpg",
+        "description": "The mindful picnic: a mood-altering experience that can turn an ordinary meal into an extraordinary memory.",
+        "musicUrl": ""
+      },
+      {
+        "id": "5",
+        "name": "Outdoor Journaling",
+        "imgUrl": "https://www.outsideonline.com/wp-content/uploads/2020/01/07/journaling-outside-year_s.jpg",
+        "description": "Experts praise nature journaling as a way to build a lasting creative connection with the environment.",
+        "musicUrl": ""
+      }
+    ]
+  },
+  "happinessThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Gratitude/ Mindfulness Practice",
+        "imgUrl": "https://positive.b-cdn.net/wp-content/uploads/img_5d0a1c6a8fb8a.jpg",
+        "description": "Gratitude meditation is simply the practice of reflecting on the things in our lives we're grateful for.",
+        "musicUrl": ""
+      },
+      {
+        "id": "1",
+        "name": "Sunrise Meditation",
+        "imgUrl": "https://cdn.pixabay.com/photo/2017/04/18/23/38/meditation-2240777_1280.jpg",
+        "description": "Start your day by greeting the sun with gratitude and positive intentions for the new day.",
+        "musicUrl": ""
+      },
+      {
+        "id": "2",
+        "name": "Transcendental Meditation",
+        "imgUrl": "https://images.medicinenet.com/images/article/main_image/how-do-you-do-transcendental-meditation.jpg",
+        "description": "Transcendental meditation is a simple, effortless technique. You sit comfortably on the floor with your eyes closed and practice twice a day for 20 minutes.",
+        "musicUrl": ""
+      }
+    ]
+  },
+  "musicThematic": {
+    "options": [
+      {
+        "id": "0",
+        "name": "Podcast/s",
+        "imgUrl": "https://techcrunch.com/wp-content/uploads/2019/02/podcast-mic-blue.png",
+        "description": "Listen to podcasts...",
+        "musicUrl": ""
+      },
+      {
+        "id": "1",
+        "name": "Audiobook/s",
+        "imgUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LVDYC6VR242VUDYTWXZRBKSVHI.jpg",
+        "description": "Listen to audio books...",
+        "musicUrl": ""
+      },
+      {
+        "id": "2",
+        "name": "Classical Music",
+        "imgUrl": "https://miro.medium.com/max/1024/1*mixpt3aTomNCPC2-cBlmIw.jpeg",
+        "description": "Listen to classical music...",
+        "musicUrl": ""
+      },
+      {
+        "id": "3",
+        "name": "Nature Sounds",
+        "imgUrl": "https://cdns-images.dzcdn.net/images/artist/4c007bf8370303881f083f46495abd6d/500x500.jpg",
+        "description": "Listen to sounds occuring in nature",
+        "musicUrl": ""
+      },
+      {
+        "id": "4",
+        "name": "Ambient Music",
+        "imgUrl": "https://ma-hub.imgix.net/wp-images/2019/05/29222105/royalty-free-music-Ambient.jpg",
+        "description": "Listen to ambient music tones & sounds",
+        "musicUrl": ""
+      },
+      {
+        "id": "5",
+        "name": "World Music",
+        "imgUrl": "https://cdn.webshopapp.com/shops/3962/files/56075890/job-lot-of-45-x-world-music-records-assorted.jpg",
+        "description": "World music is an English phrase for styles of music from non-Western countries, including quasi-traditional, intercultural, and traditional music.",
+        "musicUrl": ""
+      },
+      {
+        "id": "6",
+        "name": "Zen Music",
+        "imgUrl": "https://exploringyourmind.com/wp-content/uploads/2018/03/woman-listening-to-relaxing-music.jpg",
+        "description": "Listen to zen music...",
+        "musicUrl": ""
+      },
+      {
+        "id": "7",
+        "name": "Binaural Tones",
+        "imgUrl": "https://cliffordsegil.com/wp-content/uploads/2018/06/7576-This_Is_Your_Brain_on_Binaural_Beats-1296x728-Header.jpg",
+        "description": "Listen to binaural tones...",
+        "musicUrl": ""
+      },
+      {
+        "id": "8",
+        "name": "Isochronic Tones",
+        "imgUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/27/25/b2/2725b201-4cec-f06a-cd24-28834601b505/source/512x512bb.jpg",
+        "description": "Isochonic tones are repetitive and based on certain time intervals.",
+        "musicUrl": ""
+      },
+      {
+        "id": "9",
+        "name": "Solfeggio Frequencies",
+        "imgUrl": "https://m.media-amazon.com/images/I/81iaH6SNTKL._SS500_.jpg",
+        "description": "Solfeggio frequencies refer to specific tones of sound that help with and promote various aspects of body and mind health.",
+        "musicUrl": ""
+      }
+    ]
+  }
+}
