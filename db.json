@@ -270,14 +270,18 @@
         "name": "Ease Anxiety",
         "imgUrl": "https://images.squarespace-cdn.com/content/v1/55832ca1e4b047816d3d9c8b/1533239763310-RZW8MXMH24SL4YYKJLN5/Coping-With-Anxiety-and-Depression-722x406_blue.jpg",
         "description": "Ease anxiety with the following suggested steps...",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "1",
         "name": "Vibrant Wake-Up Thoughts",
         "imgUrl": "https://see.news/wp-content/uploads/2021/04/wakeup-favorite-music.jpg",
         "description": "Start your day with a does of vibrant and positive thoughts.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       }
     ]
   },
@@ -288,35 +292,45 @@
         "name": "Visualization Meditation (Color Breathing)",
         "imgUrl": "https://www.happiness.com/community/uploads/monthly_2021_01/visualization-meditation.jpg.5a0ac50ffb3ee864c13eec00d9be8703.jpg",
         "description": "Visualization meditation focuses on the use of guided imagery to cultivate certain psychological qualities.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "1",
         "name": "Guided Imagery",
         "imgUrl": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2022/02/GuidedImagery-1255305082-770x533-1.jpg",
         "description": "Guided imagery (also known as guided affective imagery, or katathym-imaginative psychotherapy (KIP)) is a mind-body intervention by which a person can simulate or recreate the sensory perception.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "2",
         "name": "Goals Visualization",
         "imgUrl": "https://content.thriveglobal.com/wp-content/uploads/2021/01/Why-Everyones-Wrong-About-Visualization-TG.jpg",
         "description": "Goal visualization requires you to acknowledge that good things can and will happen to you.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "3",
         "name": "Procrastination Exercise",
         "imgUrl": "https://jamesclear.com/wp-content/uploads/2015/06/procrastination-action-line-chart.jpg",
         "description": "Setting a fixed period of time for exercise will motivate you to overcome procrastination.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "4",
         "name": "Pattern Recognition",
         "imgUrl": "https://www.verdict.co.uk/wp-content/uploads/2019/10/ai-research-centre-machine-learning-mystery.jpg",
         "description": "Similar to the data analysis method that uses machine learning algorithms to automatically recognize patterns and regularities in data, Pattern Recognition aims to help you in differentiating patterns.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       }
     ]
   },
@@ -327,21 +341,27 @@
         "name": "Sunrise Meditation",
         "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-d0e9e0b2431f825a0ded5e7ab0e73f2a-lq",
         "description": "Meditate during sunrise.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "1",
         "name": "Enso Meditation",
         "imgUrl": "https://www.lionsroar.com/wp-content/uploads/2018/06/enso-featured-800x457.png?p=78606",
         "description": "ensō is created as a meditation exercise, which is called ‘meditation in action’. Like daily meditation, one could also create an ensō as a daily practice.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "2",
         "name": "Mindfulness Meditation",
         "imgUrl": "https://i0.wp.com/www.additudemag.com/wp-content/uploads/2022/04/Calming-Triggered-Emotions-Saunders_1920x1080.jpg",
         "description": "Mindfulness meditation is the practice of actually being present in the moment, which in turn trains us to become more mindful throughout the day, particularly during difficult situations.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       }
     ]
   },
@@ -352,21 +372,27 @@
         "name": "Big Breathing (Baloon Method)",
         "imgUrl": "https://www.kidlo.com/wp-content/uploads/2020/10/61.jpg",
         "description": "Balloon Breaths is a mindful breathing exercise for children, that allows kids to practice focus and deep breathing",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "1",
         "name": "Mindful Listening",
         "imgUrl": "https://momentousinstitute.org/assets/site/blog/Mindful-Listening.jpg",
         "description": "In mindful listening, for instance, children are guided through a brief meditation session during which they pay attention to different sounds.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "2",
         "name": "Candle Gazing",
         "imgUrl": "https://static1.momsimage.com/wordpress/wp-content/uploads/2019/05/Candle-gazing-child.jpg?q=50&fit=crop&w=740&dpr=1.5",
         "description": "Practicing gaze for children can improve attention and memorization skills.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       }
     ]
   },
@@ -377,42 +403,54 @@
         "name": "Walking/ Earthing Meditation",
         "imgUrl": "https://images.squarespace-cdn.com/content/v1/5703cbb32eeb810fd931ac4d/1486154865984-0NM7QU0CE20Y293MKIVL/walking.jpg",
         "description": "Walking meditation is a simple practice that helps us to become grounded, calm and aware. When we walk in meditation, we can notice the sensations in our bodies, the feeling of the ground under our feet, and we can feel free and happy in each and every step. ",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "1",
         "name": "Meditative Gardening",
         "imgUrl": "https://www.outdoorhappens.com/wp-content/uploads/2019/12/group-of-diverse-kids-learning-environment-at-farm.jpg",
         "description": "Common definitions include a focus on mindfulness, curiosity, and intuition. Gardening as meditation can be both intentional or unintentional.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "2",
         "name": "Outdoor Reading",
         "imgUrl": "https://i.dailymail.co.uk/1s/2021/02/02/12/38781880-9214471-image-a-19_1612270738079.jpg",
         "description": "Enjoy your favorite book in an outdoor setting.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "3",
         "name": "Rock Stacking",
         "imgUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/CF00/production/_102929925_rockstack1.jpg",
         "description": "Rock balancing is a form of recreation or expression in which rocks are balanced on top of one another, often in a precarious manner.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "4",
         "name": "Mindful Picnic",
         "imgUrl": "https://dietitianfit.co.uk/wp-content/uploads/2022/07/shutterstock_1385403743.jpg",
         "description": "The mindful picnic: a mood-altering experience that can turn an ordinary meal into an extraordinary memory.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "5",
         "name": "Outdoor Journaling",
         "imgUrl": "https://www.outsideonline.com/wp-content/uploads/2020/01/07/journaling-outside-year_s.jpg",
         "description": "Experts praise nature journaling as a way to build a lasting creative connection with the environment.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       }
     ]
   },
@@ -423,21 +461,27 @@
         "name": "Gratitude/ Mindfulness Practice",
         "imgUrl": "https://positive.b-cdn.net/wp-content/uploads/img_5d0a1c6a8fb8a.jpg",
         "description": "Gratitude meditation is simply the practice of reflecting on the things in our lives we're grateful for.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "1",
         "name": "Sunrise Meditation",
         "imgUrl": "https://cdn.pixabay.com/photo/2017/04/18/23/38/meditation-2240777_1280.jpg",
         "description": "Start your day by greeting the sun with gratitude and positive intentions for the new day.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       },
       {
         "id": "2",
         "name": "Transcendental Meditation",
         "imgUrl": "https://images.medicinenet.com/images/article/main_image/how-do-you-do-transcendental-meditation.jpg",
         "description": "Transcendental meditation is a simple, effortless technique. You sit comfortably on the floor with your eyes closed and practice twice a day for 20 minutes.",
-        "thematicUrl": ""
+        "paragraph_one": "TEST",
+        "paragraph_two": "TEST2",
+        "paragraph_three": "TEST3"
       }
     ]
   },
