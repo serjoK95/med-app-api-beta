@@ -227,7 +227,7 @@
     "thematics": [
       {
         "id": 1,
-        "name": "Stress Reliefe",
+        "name": "Stress Relief",
         "link": "",
         "imageUrl": "https://images.squarespace-cdn.com/content/v1/59e6fd1e9f07f52e7c34c6c1/1516708046627-556PXJFXA1BCT4QZKEAW/buddha-160424_1280.png?format=1500w"
       },
@@ -279,9 +279,9 @@
         "name": "Vibrant Wake-Up Thoughts",
         "imgUrl": "https://see.news/wp-content/uploads/2021/04/wakeup-favorite-music.jpg",
         "description": "Start your day with a does of vibrant and positive thoughts.",
-        "paragraph_one": "TEST",
-        "paragraph_two": "TEST2",
-        "paragraph_three": "TEST3"
+        "paragraph_one": "When you first wake up, rinse your face with some cold water and then sit up straight in your bed and purely be silent and still for 10-15mins. You don’t have to call it meditation if you don’t resonate with that practice. But it’s all stillness. Creating a space of quiet and stillness every morning will allow you to centre yourself, find calm and give you the strength to go through the day with a bit more presence and less reactivity. ",
+        "paragraph_two": "Moving your body in the morning is a great way to create spaciousness within the physical body but also the mind. It doesn’t need to be high intensity training, it can be slow and gentle movement too. Whatever feels really good for you both mentally and physically. ",
+        "paragraph_three": "Drinking warm water first thing in the morning is so good for your body! As you sleep you dehydrate which is why you might feel headachy soon after you wake up (even more so after a glass of wine the night before). You can add a slice of lemon or lime to the water to promote healthy digestion and liver function to start the day as well if you like. It doesn’t need to be excessive, a glass will do as you get ready for work, but definitely make it a key part of your morning."
       }
     ]
   },
@@ -292,45 +292,36 @@
         "name": "Visualization Meditation (Color Breathing)",
         "imgUrl": "https://www.happiness.com/community/uploads/monthly_2021_01/visualization-meditation.jpg.5a0ac50ffb3ee864c13eec00d9be8703.jpg",
         "description": "Visualization meditation focuses on the use of guided imagery to cultivate certain psychological qualities.",
-        "paragraph_one": "TEST",
-        "paragraph_two": "TEST2",
-        "paragraph_three": "TEST3"
+        "paragraph_one": "The colour breathing meditation is a powerful breathing exercise that helps reduce stress. It involves mentally picturing a colour that represents how you want to feel (e.g. happy, calm, serene), whilst letting go of the colour that represents the stressors in your life.",
+        "paragraph_two": "Colors can also be used to help bring balance, with different colors said to evoke and promote different emotions. For example dark red is associated with passion and power, and a deep blue is thought of as calming and relaxing.",
+        "paragraph_three": "When you do this color breathing relaxation exercise it will leave you feeling calm, relaxed and ready for the day ahead. It can be done first thing in the morning to set you up for the day, last thing at night to help you relax and wind down, or at any time during the day if you need to de-stress."
       },
       {
         "id": "1",
         "name": "Guided Imagery",
         "imgUrl": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2022/02/GuidedImagery-1255305082-770x533-1.jpg",
         "description": "Guided imagery (also known as guided affective imagery, or katathym-imaginative psychotherapy (KIP)) is a mind-body intervention by which a person can simulate or recreate the sensory perception.",
-        "paragraph_one": "TEST",
-        "paragraph_two": "TEST2",
-        "paragraph_three": "TEST3"
+        "paragraph_one": "Guided Imagery is a convenient and simple relaxation technique that can help you quickly and easily manage stress and reduce tension in your body. It’s virtually as easy as indulging in a vivid daydream and, with practice, this technique can help you to better access your inner wisdom.",
+        "paragraph_two": "A popular method is using your own thoughts, simply because this takes the least amount of preparation and expense; however, you can also explore guided imagery at many yoga studios, with recordings, and through an experienced therapist. You can also record your own guided imagery tapes.",
+        "paragraph_three": "Once you get to a relaxed state, begin to envision yourself in the midst of the most relaxing environment you can imagine. For some, this would be floating in the cool, clear waters off of a remote tropical island, where attractive people bring drinks and smooth music plays in the background. For others, this might be sitting by a fire in a snow cabin, deep in the woods, sipping hot cocoa and reading the latest bestseller. "
       },
       {
         "id": "2",
         "name": "Goals Visualization",
         "imgUrl": "https://content.thriveglobal.com/wp-content/uploads/2021/01/Why-Everyones-Wrong-About-Visualization-TG.jpg",
         "description": "Goal visualization requires you to acknowledge that good things can and will happen to you.",
-        "paragraph_one": "TEST",
-        "paragraph_two": "TEST2",
-        "paragraph_three": "TEST3"
+        "paragraph_one": "Many of us are awake for at least sixteen hours a day. By jumping out of bed and rushing through tasks, we allow life to happen to us instead of creating a vision for how we want our day to look. This opens the door for the negativity of the news, the distraction of social media or even the mental drain of your own negative thoughts to create and control your state. Your life is happening to you, instead of becoming something you can control and design.",
+        "paragraph_two": "When learning how to visualize your goals and dreams, it’s vital that you picture them already being accomplished. You’ve purchased the new car, finished the novel or earned a promotion at work. These things are done instead of in progress. Viewing a completed accomplishment is the difference between hoping for something to happen and using goal visualization to actually manifest it.",
+        "paragraph_three": "Goal visualization is one example of the next level of mindfulness. Many practice mindfulness through meditation, utilizing its strengths to deal with anxiety and develop a richer, more peaceful inner and outer life. By learning how to visualize your goals, you aren’t just accelerating your own success and growth – you’re learning how to ease the impact of fear and concern."
       },
       {
         "id": "3",
         "name": "Procrastination Exercise",
         "imgUrl": "https://jamesclear.com/wp-content/uploads/2015/06/procrastination-action-line-chart.jpg",
         "description": "Setting a fixed period of time for exercise will motivate you to overcome procrastination.",
-        "paragraph_one": "TEST",
-        "paragraph_two": "TEST2",
-        "paragraph_three": "TEST3"
-      },
-      {
-        "id": "4",
-        "name": "Pattern Recognition",
-        "imgUrl": "https://www.verdict.co.uk/wp-content/uploads/2019/10/ai-research-centre-machine-learning-mystery.jpg",
-        "description": "Similar to the data analysis method that uses machine learning algorithms to automatically recognize patterns and regularities in data, Pattern Recognition aims to help you in differentiating patterns.",
-        "paragraph_one": "TEST",
-        "paragraph_two": "TEST2",
-        "paragraph_three": "TEST3"
+        "paragraph_one": "You might be putting off a task because you've had to re-prioritize your workload. If you're briefly delaying an important task for a genuinely good reason, then you aren't necessarily procrastinating. However, if you start to put things off indefinitely, or switch focus because you want to avoid doing something, then you probably are.",
+        "paragraph_two": "Poor organization can lead to procrastination. Organized people successfully overcome it because they use prioritized To-Do Lists  and create effective schedules . These tools help you to organize your tasks by priority and deadline.",
+        "paragraph_three": "Procrastination is a habit – a deeply ingrained pattern of behavior. This means that you probably can't break it overnight. Habits only stop being habits when you avoid practicing them, so try as many of the strategies, below, as possible to give yourself the best possible chance of succeeding."
       }
     ]
   },
@@ -341,7 +332,7 @@
         "name": "Sunrise Meditation",
         "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-d0e9e0b2431f825a0ded5e7ab0e73f2a-lq",
         "description": "Meditate during sunrise.",
-        "paragraph_one": "TEST",
+        "paragraph_one": "Use this meditation as a starting point for building a habit of greeting your day with a calm and centered mind. As the sun rises the night sky gives way to light and a new day is present, at this time let go of any sense of failure or regret of past days and times gone by. Greet the new day with an open mind and heart, feel compassion towards yourself and others.",
         "paragraph_two": "TEST2",
         "paragraph_three": "TEST3"
       },
